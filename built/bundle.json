@@ -1,0 +1,1 @@
+{"edgeworker-version":"0.0.2","description":"Call Macrometa Query Worker to record a hit","config": {"subrequest": {"invoke-for-edgeworker-clients": true}} }
